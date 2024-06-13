@@ -13,7 +13,7 @@ class DefiningNamedConstants
         /* Sometimes, we don't want to use variables, as they are "mutable", or can be changed.
          * In the case we want immutable values, we can create a named constant.
          * Constants are created by adding "const" before a data type in a declaration.
-         * Programmers typically max constants in ALL_CAPS with underscores for readability.
+         * Programmers typically type constants in ALL_CAPS with underscores for readability.
          */
 
         const double TAX_RATE = 0.07; // Defines a constant value of type double named TAX_RATE

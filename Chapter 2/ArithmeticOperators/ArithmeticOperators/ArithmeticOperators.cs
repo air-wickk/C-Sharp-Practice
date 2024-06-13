@@ -67,10 +67,9 @@ class ArithmeticOperators
         int someValue = 6;
         WriteLine("Your value was initialized with value {0}", someValue);
 
-        ++someValue; // This is a prefix increment as ++ is before the variable
-        WriteLine("After increment, your value is {0}", someValue);
         // someValue++; This is a postfix increment as ++ is after the variable
-        WriteLine();
+        ++someValue; // This is a prefix increment as ++ is before the variable
+        WriteLine("After increment, your value is {0}\n", someValue);
 
         /* It is very important to distinguish between postfix and prefix increments/decrements.
          * A prefix increment (++variable/--variable) calculates the increment/decrement, then stores it before it is used.

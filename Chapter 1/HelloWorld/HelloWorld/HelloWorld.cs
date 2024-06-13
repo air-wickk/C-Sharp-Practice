@@ -1,10 +1,13 @@
 ﻿using static System.Console; // This is an import, we use it to import the console library to print to our console
 
-class HelloWorld // This is how we declare a class. Every "file" is a class, and can be named anything
+// This is how we declare a class. Every "file" is its own class, and can be named anything
+class HelloWorld 
 {
-    static void Main() // This will be explained later. Main() is the execution instructions for your program
+    // This will be explained later. Main() is the execution instructions for your program
+    static void Main()
     {
-        WriteLine("Hello, World!"); // Within Main()'s brackets are the instructions. In this case, print "Hello, World!"
+        // Within Main()'s brackets are the instructions. In this case, print "Hello, World!"
+        WriteLine("Hello, World!");
     }
 
 }

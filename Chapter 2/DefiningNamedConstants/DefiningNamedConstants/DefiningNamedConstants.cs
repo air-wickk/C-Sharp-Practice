@@ -11,7 +11,7 @@ class DefiningNamedConstants
     static void Main()
     {
         /* Sometimes, we don't want to use variables, as they are "mutable", or can be changed.
-         * In the case we want immutable values, we can created a named constant.
+         * In the case we want immutable values, we can create a named constant.
          * Constants are created by adding "const" before a data type in a declaration.
          * Programmers typically max constants in ALL_CAPS with underscores for readability.
          */
@@ -84,9 +84,6 @@ class DefiningNamedConstants
         deliveryDay = (DayOfWeek)shippingDay; // Converts shippingDay (3) back to the enum in position 3 (THURSDAY)
 
         WriteLine("{0} is position {1} in the enum list", deliveryDay, shippingDay);
-
-
-
 
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsingBooleans")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9e94ee3cd85d378d14c1844adcb728a18b2b7d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65baf4cb41d358d117c212f67f80e1200ccd6d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsingBooleans")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsingBooleans")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

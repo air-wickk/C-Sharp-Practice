@@ -1,0 +1,15 @@
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\bin\Debug\net8.0\UsingString.exe
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\bin\Debug\net8.0\UsingString.deps.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\bin\Debug\net8.0\UsingString.runtimeconfig.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\bin\Debug\net8.0\UsingString.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\bin\Debug\net8.0\UsingString.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.AssemblyInfoInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.AssemblyInfo.cs
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.sourcelink.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\refint\UsingString.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\UsingString.genruntimeconfig.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\UsingString\UsingString\obj\Debug\net8.0\ref\UsingString.dll

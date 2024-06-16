@@ -1,0 +1,15 @@
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\net8.0\DemoORAndAND.exe
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\net8.0\DemoORAndAND.deps.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\net8.0\DemoORAndAND.runtimeconfig.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\net8.0\DemoORAndAND.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\bin\Debug\net8.0\DemoORAndAND.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.AssemblyInfoInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.AssemblyInfo.cs
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.sourcelink.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\refint\DemoORAndAND.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\DemoORAndAND.genruntimeconfig.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\DemoORAndAND\DemoORAndAND\obj\Debug\net8.0\ref\DemoORAndAND.dll

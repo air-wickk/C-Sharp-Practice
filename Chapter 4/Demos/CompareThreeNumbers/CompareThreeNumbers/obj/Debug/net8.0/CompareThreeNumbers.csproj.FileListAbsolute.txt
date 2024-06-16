@@ -1,0 +1,15 @@
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\net8.0\CompareThreeNumbers.exe
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\net8.0\CompareThreeNumbers.deps.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\net8.0\CompareThreeNumbers.runtimeconfig.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\net8.0\CompareThreeNumbers.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\net8.0\CompareThreeNumbers.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.AssemblyInfo.cs
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.sourcelink.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\refint\CompareThreeNumbers.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\CompareThreeNumbers.genruntimeconfig.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\net8.0\ref\CompareThreeNumbers.dll

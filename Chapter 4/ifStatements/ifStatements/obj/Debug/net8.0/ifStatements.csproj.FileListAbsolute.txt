@@ -1,0 +1,15 @@
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\bin\Debug\net8.0\ifStatements.exe
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\bin\Debug\net8.0\ifStatements.deps.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\bin\Debug\net8.0\ifStatements.runtimeconfig.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\bin\Debug\net8.0\ifStatements.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\bin\Debug\net8.0\ifStatements.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.AssemblyInfoInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.AssemblyInfo.cs
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.sourcelink.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\refint\ifStatements.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ifStatements.genruntimeconfig.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 4 - Making Decisions\ifStatements\ifStatements\obj\Debug\net8.0\ref\ifStatements.dll

@@ -1,0 +1,15 @@
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\bin\Debug\net8.0\NumericTypeConversion.exe
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\bin\Debug\net8.0\NumericTypeConversion.deps.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\bin\Debug\net8.0\NumericTypeConversion.runtimeconfig.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\bin\Debug\net8.0\NumericTypeConversion.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\bin\Debug\net8.0\NumericTypeConversion.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.AssemblyInfoInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.AssemblyInfo.cs
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.sourcelink.json
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\refint\NumericTypeConversion.dll
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.pdb
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\NumericTypeConversion.genruntimeconfig.cache
+C:\Users\eric1\Desktop\C-Sharp-Practice\Chapter 2\NumericTypeConversion\NumericTypeConversion\obj\Debug\net8.0\ref\NumericTypeConversion.dll

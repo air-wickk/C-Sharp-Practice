@@ -147,23 +147,5 @@ class CompoundExpressions
         else
             WriteLine("Discount does not apply.\n");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

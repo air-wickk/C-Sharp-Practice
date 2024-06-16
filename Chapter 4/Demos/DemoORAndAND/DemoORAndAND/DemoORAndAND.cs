@@ -24,8 +24,5 @@ class DemoOrAndAND
         else
             WriteLine("Shipping is not free.");
 
-
-
-
     }
 }

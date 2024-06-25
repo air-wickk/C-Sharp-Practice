@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\",
+  "WorkspaceRootPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFF5AD2A-1874-4D90-9CAD-EED6FBD2F3EF}|CompareThreeNumbers\\CompareThreeNumbers.csproj|c:\\users\\eric1\\desktop\\c-sharp-practice\\chapter 4\\comparethreenumbers\\comparethreenumbers\\comparethreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFF5AD2A-1874-4D90-9CAD-EED6FBD2F3EF}|CompareThreeNumbers\\CompareThreeNumbers.csproj|c:\\users\\eric1\\desktop\\c-sharp-practice\\chapter 4\\demos\\comparethreenumbers\\comparethreenumbers\\comparethreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFF5AD2A-1874-4D90-9CAD-EED6FBD2F3EF}|CompareThreeNumbers\\CompareThreeNumbers.csproj|solutionrelative:comparethreenumbers\\comparethreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CompareThreeNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.cs",
               "RelativeDocumentMoniker": "CompareThreeNumbers\\CompareThreeNumbers.cs",
-              "ToolTip": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.cs",
+              "ToolTip": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.cs",
               "RelativeToolTip": "CompareThreeNumbers\\CompareThreeNumbers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T21:17:30.934Z",
               "EditorCaption": ""

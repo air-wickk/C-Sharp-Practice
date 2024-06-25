@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.csproj",
       "projectName": "CompareThreeNumbers",
-      "projectPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.csproj",
+      "projectPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\CompareThreeNumbers\\CompareThreeNumbers.csproj",
       "packagesPath": "C:\\Users\\eric1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\CompareThreeNumbers\\CompareThreeNumbers\\obj\\",
+      "outputPath": "C:\\Users\\eric1\\Desktop\\C-Sharp-Practice\\Chapter 4\\Demos\\CompareThreeNumbers\\CompareThreeNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eric1\\AppData\\Roaming\\NuGet\\NuGet.Config",

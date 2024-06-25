@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompareThreeNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54dcce747fdf5ffff96ec8fa93a1ae241835704d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085056160fb09bb656225b426d5feeed6a6861b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompareThreeNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompareThreeNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
